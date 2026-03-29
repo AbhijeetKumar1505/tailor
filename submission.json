@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-realistic cinematic scene of a tailor in a small workshop creating an extremely tight and oddly shaped suit perfectly molded to one mannequin with a distorted posture, while multiple normal mannequins nearby cannot fit into the suit at all, fabric stretched unnaturally, emotional and symbolic, soft dramatic lighting, ultra detailed, 4k, realistic photography no text, no labels, no diagrams",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A tailor creates a suit perfectly fitted to one distorted mannequin, but it fails to fit others, representing lack of generalization"
+}
